@@ -7,7 +7,6 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
   <Project/>
   <Overview>A tool that can automatically download free seeds and delete them after the free time expires.</Overview>
   <Support>https://forums.unraid.net/topic/119675-support-crazyq-pt_helper/</Support>
